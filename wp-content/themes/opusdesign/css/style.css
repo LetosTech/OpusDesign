@@ -1,0 +1,490 @@
+body{
+	background-image: #fff;
+	margin: 0 auto;
+	
+}
+a:focus, a:hover {
+	text-decoration: none;
+}
+ul li{
+	list-style: none;
+}
+/*########## HEADERS #############*/
+.mit-icons{
+	float: right;
+}
+.logo{
+	margin: 27px 0 0 -22px;
+
+	
+}
+.header{
+	margin: 0 auto;
+	width: 100%;
+	height: 196px;
+}
+.mit-icons {
+    float: right;
+    margin: 15px -17px 0px 0px !important;
+    position: relative;
+}
+.mitsloan{
+	margin-left: 11px;
+}
+
+}
+/*########## container ###########*/
+.page-header{
+	width: 1000px;
+	height: 220px;
+	margin: 0 auto;
+	
+}
+.top{
+	color: #009899 !important;
+	border-width: 11px;
+	border-color:#009899;
+	margin-top: 0;
+
+}
+.nav{
+	font-size: 20px;
+	font-family: "times";
+}
+
+
+.container{
+	width: 1000px!important;
+	height: 100%;
+	
+}
+
+.navbar {
+    margin: -2px 0px 0px -31px !important;
+}
+
+.navbar-default {
+    background-color: #Fff!important;
+    border-color: #fff!important;
+}
+.navbar-collapse{
+	padding-left: 0 !important;
+}
+.grid-2-col{
+	background-color: #EBEBEB;
+}
+.navbar-nav > li > a {
+    margin-right: 31px !important;
+    line-height: 28px !important;
+    color: #000 !important;
+}
+.navbar-nav {
+    width: 115% !important;
+}
+li a.active{
+	color: #57AFB1 !important;
+}
+/*########## biography ###########*/
+
+.bio{
+	background-color: #fff;
+	margin-top: 15px !important;
+	padding: 17px 47px 0px 19px !important;
+}
+.bio-information .bio-side{
+	background-color: #959595;
+}
+
+.bio p{
+    font-family: "times";
+    font-size: 15px;
+    margin-top: 9px;
+}
+.research-side{
+	width: 282px;
+	height: 57% !important;
+	background-color: #fff !important;
+	margin-top: 13px;
+	color: #676767;
+}
+.research-side .list-group-item{
+	background-color: #fff !important;
+}
+.bio-side{
+	width: 282px;
+	height: 57% !important;
+	background-color: #959595 !important;
+	margin-top: 13px;
+	color: #fff;
+}
+.bio-side input{
+	width: 242px;
+	height: 34px;
+	margin-left: 3px;
+}
+.bio-side p{
+	color: #fff;
+	font-family: "Times New Roman", Times, serif;
+	line-height: 20px;
+}
+.bio-side h3{
+	color: #fff;
+	font: 13px "Lucida grande";
+
+}
+.bio-text{
+	margin-top: -5px !important;
+	margin-left: 8px;
+}
+.bio-info{
+	border: 2px solid #828282;
+	float: left;
+	width: 260px;
+	margin-left: 9px;
+	margin-top: 13px;
+	margin-bottom: 0 !important;
+}
+
+.bio-side label{
+	margin: 7px 6px 15px !important;
+	
+}
+label{
+	font-weight: 300 !important;
+}
+.bio-side button{
+	width: 115px;
+	height: 35px;
+	color: #FFF;
+	background-color: #000;
+	margin: 16px 0px 0px 66px !important;
+	border: medium none;
+	font-size: 11px;
+}
+.sign{
+	margin: 13px 0px 0px 1px !important;
+}
+.bio-information{
+	width: 305px !important;
+	margin: 68px 0px 42px -15px !important;
+
+}
+.bio-research{
+	width: 688px !important;
+}
+
+
+/*########## main ###########*/
+.research-information .list-group-item{
+	background-color: #fff !important;
+	width: 305px !important;
+}
+.research{
+	float: right;
+	width: 652px;
+	margin: 40px -8px 0px 0px;
+}
+.information{
+	margin: 68px 0px 0px -15px;
+	width: 325px;
+	float: left;
+}
+.information li a {
+	background-image:url(../img/images/arrowfixed_05.jpg) no-repeat;
+}
+.info-list{
+	margin-top: 12px;
+	width: 325px;
+	height: 204px;
+}
+.info-list li a:hover {
+	color: #fff;
+}
+
+.info-list a {
+	width: 290px;
+	font-size: 17px;
+	display: block;
+	color: #FFF;
+	padding: 6px !important;
+	margin: 5px 0px 0px 13px !important;
+	border-bottom: 0.2px solid #898989;
+	background: url("../img/images/arrowfixed_05.jpg") no-repeat;
+    background-position: right;
+}
+
+
+.info-list .last{
+	border-bottom: none;
+}
+.info-list > li > a:focus, .info-list > li > a:hover {
+    text-decoration: none;
+    background-color: #888888 !important;}
+
+.maincontent{
+	border-width: 10px;
+	border-color:#A7BA0A;
+	margin-top: -2px;
+}
+
+.research h2{
+	margin-left: 0;
+}
+.research li {
+	font: 16px bold;
+	text-indent: 1px;
+	margin-bottom: 10px;
+	height: 43px;
+}
+
+.info-list{
+	background-color: #7D7D7D;
+	
+}
+.research li a {
+	background: url(../img/images/one_10.jpg) no-repeat;
+	background-position: right;
+	color: #000;
+	font-size: 19px;
+	display: block;
+	text-decoration: none;
+}
+.detail{
+	background-color: #fff;
+}
+
+}
+.nav > li > a:focus, .nav > li.detail > a:hover {
+	background-color: #fff !important;}
+
+
+.middle{
+	border: 5px solid #DADADA;
+	width: 986px !important;
+	margin: 46px 0px 0px -32px;
+}
+.recent{
+	background-color: #EBEBEB;
+}
+
+
+/*########## recearch-page ###########*/
+.research-form {
+    width: 750px;
+}
+.research-form .form-group input{
+	width: 320px;
+	height: 35px;
+	margin: 14px 29px 20px 7px !important;
+}
+.form-group p{
+	display: inline;
+}
+
+}
+form select{
+	margin: 20px !important;
+}
+.select{
+	margin-left: 40px;
+	padding: 20px;
+}
+.select button{
+	width:115px ;
+	height:35px;
+	color:#fff ;
+	background-color:#009899;
+	margin-left: 130px;
+	border: none;
+}
+.research-panel p{
+	color: #888888;
+}
+.research-panel p span {
+	color:#029899;
+	font-size: 13px;
+}
+.research-panel .destaque{
+	font-size: 14px;
+	color: #000;
+	font-family: "Times Roman";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*########## post ###########*/
+
+.list-group-item img{
+
+	float: right;
+}
+a.list-group-item  {
+	color: #000 !important;
+	font-size: 18px;
+}
+
+.list-group-item{
+	background-color: #EBEBEB !important;
+    border: 1px solid #EBEBEB !important;
+}
+
+.panel{
+	background-color: #EBEBEB !important;
+	box-shadow: 0px 1px 1px #EBEBEB !important;
+	border: none !important;
+
+}
+.detail .list-group-item{
+	background-color: #fff !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*########## post ###########*/
+
+
+.col-md-6 .affi{
+	margin: 30px 0px 30px -35px;
+}
+
+.texto{
+	margin: -6px 1px 60px -35px;
+}
+
+/*########## footer ###########*/
+
+.opus{
+	float: right;
+	text-align: center;
+}
+
+.site-info{
+	margin: 20px 2px 2px 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
